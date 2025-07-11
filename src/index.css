@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(rgba(20,20,20,0.7), rgba(20,20,20,0.7)), url('/assets/360_F_351468860_RKyWCyyYlFPC9gRypChiQZEQldyYc9Zt.jpg') no-repeat center center fixed !important;
+  background-size: cover !important;
+}
